@@ -25,3 +25,14 @@ Configure username and password
 -------------------------------
 git config --global user.name githubusername
 git config --global user.password githubpassword
+
+git merge<branchname>
+merge different modifications
+insert text
+ESC:
+save 
+quit
+find cat
+find number of balls
+find small number
+git branch -d<branch name>-delete the branch
